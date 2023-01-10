@@ -1,0 +1,14 @@
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.pdb
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.csprojResolveAssemblyReference.cache
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.exe
+c:\users\win7\documents\visual studio 2013\Projects\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.pdb
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe.config
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.exe
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\bin\Debug\HelloWorld_stud.pdb
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.csproj.AssemblyReference.cache
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.csproj.SuggestedBindingRedirects.cache
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.csproj.CoreCompileInputs.cache
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.exe
+J:\Курс\Дз\1.1\HelloWorld_stud\HelloWorld_stud\obj\Debug\HelloWorld_stud.pdb
